@@ -1,8 +1,8 @@
 {
     "context" : "client",
     "identifier" : "com.pa.uber.client.commandertextures2048.imperial_gamma",
-    "display_name" : "High Resolution Commander: Delta",
-    "description" : "Increases the resolution of the Delta commander textures to 2048x2048. WARNING: Not recommended for systems with less than 2GB of VRAM. Large download size.",
+    "display_name" : "High Resolution Commander: Gamma",
+    "description" : "Increases the resolution of the Gamma commander textures to 2048x2048. WARNING: Not recommended for systems with less than 2GB of VRAM. Large download size.",
     "author" : "Uber Entertainment",
     "version" : "1.0",
     "signature" : "not yet implemented",
